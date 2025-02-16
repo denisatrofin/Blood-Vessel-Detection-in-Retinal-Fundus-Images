@@ -10,9 +10,9 @@ This project focuses on the detection of blood vessels in retinal fundus images 
  - Morphological operations such as erosion and dilation are applied to improve segmentation quality.
  - The final output provides a clear and high-contrast segmentation of the blood vessels.
 
-**Input & Output**
-Input: A color retinal fundus image.
-Output: A binary map highlighting the detected blood vessels.
+### **Input & Output**
+**Input:** A color retinal fundus image.
+**Output:** A binary map highlighting the detected blood vessels.
 
 ## Technologies Used: 
 - Python
